@@ -1,0 +1,45 @@
+body{
+    background: linear-gradient(180deg, #ff0000 0%, rgba(152, 5, 5, 0.536458) 50%, rgba(64, 0, 0, 0.31) 100%);
+    height: 100vh;
+}
+
+section{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.info-list{
+    display: flex;
+}
+
+strong{
+    font-weight: 900;
+    color: black;
+}
+
+.titre{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.annee-type{
+    font-size: 1.5rem;
+    font-weight: 250;
+}
+
+.image{
+    height: 60vh;
+    margin: 5rem;   
+}
+
+.titre-containeur{
+    margin-bottom: 3rem;
+}
+.info{
+    margin: 5rem;
+    margin-bottom: 0rem;
+    height: 100%;
+
+}
+
